@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="JR_Random.c" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="JR_timer.c" open="1" top="0" tabpos="5">
+		<Cursor position="465" topLine="11" />
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1">
+		<Cursor position="502" topLine="45" />
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="3">
+		<Cursor position="288" topLine="1" />
+	</File>
+	<File name="maze.c" open="1" top="0" tabpos="2">
+		<Cursor position="7239" topLine="0" />
+	</File>
+	<File name="maze.h" open="1" top="0" tabpos="4">
+		<Cursor position="1159" topLine="23" />
+	</File>
+</CodeBlocks_layout_file>
