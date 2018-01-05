@@ -28,3 +28,9 @@ C语言写的 windows 操作系统上的字符界面迷宫小游戏
 
 - 运行环境：`windows`
 - 开发环境：`code::blocks + MinGW`
+
+## 附
+
+ - [游戏试玩](http://download.csdn.net/download/diamont1001/3171965)
+ - [原 CSDN 资源下载地址](http://download.csdn.net/download/diamont1001/3171962)
+ 
