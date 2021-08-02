@@ -8,11 +8,11 @@ C语言写的 windows 操作系统上的字符界面迷宫小游戏
 
 游戏内容：
 
-![](https://raw.githubusercontent.com/diamont1001/C_maze/master/docs/1.gif)
+<img src="https://raw.githubusercontent.com/diamont1001/C_maze/master/docs/1.gif" width="540"/>
 
 地图编辑：
 
-![](https://raw.githubusercontent.com/diamont1001/C_maze/master/docs/2.gif)
+<img src="https://raw.githubusercontent.com/diamont1001/C_maze/master/docs/2.gif" width="540"/>
 
 ## 功能介绍：
 
